@@ -1,2 +1,2 @@
-# ReframeEA--IT-architecture
-Repository to collaborate on IT Architecture
+# ReframeEA - 
+Repository to collaborate on Architect domain definition and IT Architecture framework
